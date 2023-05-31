@@ -1,0 +1,649 @@
+2023-05-30 23:21:58,089 - mineflayer - INFO - Stopping subprocess.
+2023-05-30 23:23:05,356 - mineflayer - INFO - Starting subprocess with commands: ['node', 'C:\\Users\\fujji\\Programs\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-30 23:23:05,857 - mineflayer - INFO - Server started on port 3000
+2023-05-30 23:23:05,858 - mineflayer - INFO - Subprocess is ready.
+2023-05-30 23:23:05,872 - mineflayer - INFO - {
+2023-05-30 23:23:05,872 - mineflayer - INFO - port: 53649,
+2023-05-30 23:23:05,872 - mineflayer - INFO - reset: 'soft',
+2023-05-30 23:23:05,872 - mineflayer - INFO - inventory: {},
+2023-05-30 23:23:05,874 - mineflayer - INFO - equipment: [],
+2023-05-30 23:23:05,874 - mineflayer - INFO - spread: false,
+2023-05-30 23:23:05,875 - mineflayer - INFO - waitTicks: 20,
+2023-05-30 23:23:05,875 - mineflayer - INFO - position: null
+2023-05-30 23:23:05,875 - mineflayer - INFO - }
+2023-05-30 23:23:06,876 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:06,876 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:06,876 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:06,876 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:06,876 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:06,876 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:06,876 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:06,876 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:06,877 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:06,877 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:06,877 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:06,911 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:06,911 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:06,911 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:06,911 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:06,911 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:06,911 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:06,912 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:06,912 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:06,912 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:06,912 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:06,912 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:06,912 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:06,912 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:06,912 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:06,912 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:06,912 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:06,912 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:06,913 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:06,913 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:06,913 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:06,914 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:06,914 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:06,914 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:06,914 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:06,914 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:06,914 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:06,914 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:06,914 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:06,914 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:06,914 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:06,914 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:06,948 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:06,948 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:06,948 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:06,948 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:06,948 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:06,948 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:06,948 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:06,948 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:06,948 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:06,948 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:06,949 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:07,027 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:07,028 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:07,028 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:07,028 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:07,028 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:07,028 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:07,028 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:07,028 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:07,028 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:07,028 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:07,028 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:07,222 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:07,222 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:07,222 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:07,222 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:07,222 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:07,222 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:07,222 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:07,222 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:07,222 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:07,222 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:07,222 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:15,605 - mineflayer - INFO - Stopping subprocess.
+2023-05-30 23:23:15,643 - mineflayer - INFO - Stopping subprocess.
+2023-05-30 23:23:16,633 - mineflayer - INFO - Starting subprocess with commands: ['node', 'C:\\Users\\fujji\\Programs\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-30 23:23:17,108 - mineflayer - INFO - Server started on port 3000
+2023-05-30 23:23:17,108 - mineflayer - INFO - Subprocess is ready.
+2023-05-30 23:23:17,128 - mineflayer - INFO - {
+2023-05-30 23:23:17,128 - mineflayer - INFO - port: 53649,
+2023-05-30 23:23:17,128 - mineflayer - INFO - reset: 'soft',
+2023-05-30 23:23:17,128 - mineflayer - INFO - inventory: {},
+2023-05-30 23:23:17,128 - mineflayer - INFO - equipment: [],
+2023-05-30 23:23:17,128 - mineflayer - INFO - spread: false,
+2023-05-30 23:23:17,129 - mineflayer - INFO - waitTicks: 20,
+2023-05-30 23:23:17,129 - mineflayer - INFO - position: null
+2023-05-30 23:23:17,129 - mineflayer - INFO - }
+2023-05-30 23:23:18,113 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:18,113 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:18,113 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:18,113 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:18,113 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:18,114 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:18,114 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:18,114 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:18,114 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:18,114 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:18,116 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:18,116 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:18,116 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:18,116 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:18,116 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:18,117 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:18,117 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:18,117 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:18,117 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:18,117 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:18,117 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:18,117 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:18,117 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:18,117 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:18,148 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:18,148 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:18,148 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:18,148 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:18,149 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:18,149 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:18,149 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:18,149 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:18,149 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:18,149 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:18,149 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:18,209 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:18,210 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:18,210 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:18,210 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:18,210 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:18,210 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:18,210 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:18,210 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:18,210 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:18,210 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:18,210 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:23:18,382 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:23:18,382 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:23:18,382 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:23:18,382 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:23:18,382 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:23:18,383 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:23:18,383 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:23:18,383 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:23:18,383 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:23:18,383 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:23:18,383 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:24:36,536 - mineflayer - INFO - Error: No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:24:36,536 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:24:36,536 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:24:36,536 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1521:9)
+2023-05-30 23:24:36,536 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-30 23:24:36,536 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1528:1)
+2023-05-30 23:24:36,536 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:24:36,536 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:24:36,537 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:24:36,537 - mineflayer - INFO - No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:24:36,537 - mineflayer - INFO - at line 18:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-30 23:26:39,867 - mineflayer - INFO - Error: No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:26:39,867 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:26:39,867 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:26:39,867 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1537:9)
+2023-05-30 23:26:39,867 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-30 23:26:39,867 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1544:1)
+2023-05-30 23:26:39,867 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:26:39,867 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:26:39,867 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:26:39,867 - mineflayer - INFO - No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:26:39,868 - mineflayer - INFO - at line 34:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-30 23:29:23,364 - mineflayer - INFO - Error: No chest at (1343.5023353540464, 65, 1380.5), it is chest
+2023-05-30 23:29:23,364 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:29:23,364 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:29:23,364 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1538:9)
+2023-05-30 23:29:23,364 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-30 23:29:23,364 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1545:1)
+2023-05-30 23:29:23,364 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:29:23,364 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:29:23,366 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:29:23,366 - mineflayer - INFO - No chest at (1343.5023353540464, 65, 1380.5), it is chest
+2023-05-30 23:29:23,366 - mineflayer - INFO - at line 35:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-30 23:30:57,438 - mineflayer - INFO - ReferenceError: findSuitableChestPosition is not defined
+2023-05-30 23:30:57,438 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1510:25)
+2023-05-30 23:30:57,439 - mineflayer - INFO - at eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1539:7)
+2023-05-30 23:30:57,439 - mineflayer - INFO - at eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1539:34)
+2023-05-30 23:30:57,439 - mineflayer - INFO - at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19)
+2023-05-30 23:30:57,439 - mineflayer - INFO - at C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:21
+2023-05-30 23:30:57,439 - mineflayer - INFO - Your code:7
+2023-05-30 23:30:57,439 - mineflayer - INFO - const chestPosition = await findSuitableChestPosition(bot);
+2023-05-30 23:30:57,439 - mineflayer - INFO - findSuitableChestPosition is not defined
+2023-05-30 23:30:57,439 - mineflayer - INFO - 
+2023-05-30 23:31:01,915 - mineflayer - INFO - Stopping subprocess.
+2023-05-30 23:31:01,961 - mineflayer - INFO - Stopping subprocess.
+2023-05-30 23:31:02,973 - mineflayer - INFO - Starting subprocess with commands: ['node', 'C:\\Users\\fujji\\Programs\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-30 23:31:03,447 - mineflayer - INFO - Server started on port 3000
+2023-05-30 23:31:03,447 - mineflayer - INFO - Subprocess is ready.
+2023-05-30 23:31:03,461 - mineflayer - INFO - {
+2023-05-30 23:31:03,461 - mineflayer - INFO - port: 53649,
+2023-05-30 23:31:03,461 - mineflayer - INFO - reset: 'soft',
+2023-05-30 23:31:03,462 - mineflayer - INFO - inventory: {},
+2023-05-30 23:31:03,462 - mineflayer - INFO - equipment: [],
+2023-05-30 23:31:03,462 - mineflayer - INFO - spread: false,
+2023-05-30 23:31:03,462 - mineflayer - INFO - waitTicks: 20,
+2023-05-30 23:31:03,462 - mineflayer - INFO - position: null
+2023-05-30 23:31:03,462 - mineflayer - INFO - }
+2023-05-30 23:31:04,359 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:31:04,359 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:31:04,359 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:31:04,359 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:31:04,359 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:31:04,360 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:31:04,360 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:31:04,360 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:31:04,360 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:31:04,360 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:31:04,360 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:31:04,360 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:31:04,388 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:31:04,389 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:31:04,389 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:31:04,389 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:31:04,389 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:31:04,390 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:31:04,390 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:31:04,390 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:31:04,390 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:31:04,390 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:31:04,390 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:31:04,417 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:31:04,418 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:31:04,418 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:31:04,418 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:31:04,418 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:31:04,419 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:31:04,473 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:31:04,474 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:31:04,474 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:31:04,474 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:31:04,474 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:31:04,474 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:31:04,474 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:31:04,474 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:31:04,474 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:31:04,474 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:31:04,474 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:31:04,637 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:31:04,637 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:31:04,637 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:31:04,637 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:31:04,637 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:31:04,637 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:31:04,638 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:31:04,638 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:31:04,638 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:31:04,638 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:31:04,638 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:32:29,726 - mineflayer - INFO - Error: No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:32:29,726 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:32:29,726 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:32:29,726 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1523:9)
+2023-05-30 23:32:29,726 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-30 23:32:29,726 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1530:1)
+2023-05-30 23:32:29,726 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:32:29,726 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:32:29,727 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:32:29,727 - mineflayer - INFO - No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:32:29,727 - mineflayer - INFO - at line 20:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-30 23:34:51,721 - mineflayer - INFO - Error: No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:34:51,721 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:34:51,721 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:34:51,721 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1539:9)
+2023-05-30 23:34:51,721 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-30 23:34:51,721 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1546:1)
+2023-05-30 23:34:51,721 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:34:51,721 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:34:51,721 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:34:51,722 - mineflayer - INFO - No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:34:51,722 - mineflayer - INFO - at line 36:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-30 23:37:03,818 - mineflayer - INFO - Error: No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:37:03,819 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:37:03,819 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:37:03,819 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1539:9)
+2023-05-30 23:37:03,819 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-30 23:37:03,819 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1546:1)
+2023-05-30 23:37:03,819 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:37:03,819 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:37:03,819 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:37:03,819 - mineflayer - INFO - No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:37:03,819 - mineflayer - INFO - at line 36:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-30 23:40:15,732 - mineflayer - INFO - Error: No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:40:15,733 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:40:15,733 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:40:15,733 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1539:9)
+2023-05-30 23:40:15,734 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-30 23:40:15,734 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1546:1)
+2023-05-30 23:40:15,734 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:40:15,734 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:40:15,734 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:40:15,734 - mineflayer - INFO - No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:40:15,734 - mineflayer - INFO - at line 36:await depositItemIntoChest(bot, chestPosition, itemsToDeposit); in your code
+2023-05-30 23:40:20,063 - mineflayer - INFO - Stopping subprocess.
+2023-05-30 23:40:20,094 - mineflayer - INFO - Stopping subprocess.
+2023-05-30 23:40:21,092 - mineflayer - INFO - Starting subprocess with commands: ['node', 'C:\\Users\\fujji\\Programs\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-30 23:40:21,560 - mineflayer - INFO - Server started on port 3000
+2023-05-30 23:40:21,560 - mineflayer - INFO - Subprocess is ready.
+2023-05-30 23:40:21,577 - mineflayer - INFO - {
+2023-05-30 23:40:21,577 - mineflayer - INFO - port: 53649,
+2023-05-30 23:40:21,577 - mineflayer - INFO - reset: 'soft',
+2023-05-30 23:40:21,577 - mineflayer - INFO - inventory: {},
+2023-05-30 23:40:21,577 - mineflayer - INFO - equipment: [],
+2023-05-30 23:40:21,577 - mineflayer - INFO - spread: false,
+2023-05-30 23:40:21,577 - mineflayer - INFO - waitTicks: 20,
+2023-05-30 23:40:21,578 - mineflayer - INFO - position: null
+2023-05-30 23:40:21,578 - mineflayer - INFO - }
+2023-05-30 23:40:22,454 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:40:22,454 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:40:22,455 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:40:22,455 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:40:22,455 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:40:22,455 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:40:22,455 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:40:22,455 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:40:22,455 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:40:22,455 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:40:22,455 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:40:22,478 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:40:22,478 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:40:22,478 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:40:22,478 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:40:22,478 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:40:22,478 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:40:22,478 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:40:22,478 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:40:22,478 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:40:22,479 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:40:22,479 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:40:22,479 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:40:22,479 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:40:22,479 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:40:22,480 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:40:22,480 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:40:22,480 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:40:22,480 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:40:22,480 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:40:22,480 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:40:22,480 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:40:22,480 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:40:22,506 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:40:22,506 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:40:22,507 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:40:22,507 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:40:22,507 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:40:22,508 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:40:22,565 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:40:22,565 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:40:22,565 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:40:22,565 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:40:22,565 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:40:22,565 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:40:22,565 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:40:22,565 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:40:22,566 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:40:22,566 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:40:22,566 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:40:22,729 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:40:22,729 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:40:22,729 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:40:22,729 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:40:22,729 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:40:22,729 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:40:22,729 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:40:22,729 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:40:22,729 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:40:22,730 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:40:22,730 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:41:53,276 - mineflayer - INFO - Error: No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:41:53,276 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:41:53,276 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:41:53,276 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1521:9)
+2023-05-30 23:41:53,277 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-30 23:41:53,277 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1528:1)
+2023-05-30 23:41:53,277 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:41:53,277 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:41:53,277 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:41:53,277 - mineflayer - INFO - No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:41:53,277 - mineflayer - INFO - at line 18:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-30 23:44:03,325 - mineflayer - INFO - Error: No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:44:03,325 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:44:03,325 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:44:03,325 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1537:9)
+2023-05-30 23:44:03,325 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-30 23:44:03,325 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1544:1)
+2023-05-30 23:44:03,325 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:44:03,325 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:44:03,325 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:44:03,325 - mineflayer - INFO - No chest at (1344.5023353540464, 65, 1381.5), it is air
+2023-05-30 23:44:03,325 - mineflayer - INFO - at line 34:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-30 23:45:51,973 - mineflayer - INFO - ReferenceError: findSuitablePosition is not defined
+2023-05-30 23:45:51,973 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1513:25)
+2023-05-30 23:45:51,973 - mineflayer - INFO - at eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1540:7)
+2023-05-30 23:45:51,973 - mineflayer - INFO - at eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1540:34)
+2023-05-30 23:45:51,973 - mineflayer - INFO - at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19)
+2023-05-30 23:45:51,973 - mineflayer - INFO - at C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:21
+2023-05-30 23:45:51,973 - mineflayer - INFO - Your code:10
+2023-05-30 23:45:51,973 - mineflayer - INFO - const chestPosition = await findSuitablePosition(bot);
+2023-05-30 23:45:51,973 - mineflayer - INFO - findSuitablePosition is not defined
+2023-05-30 23:45:51,973 - mineflayer - INFO - 
+2023-05-30 23:49:15,703 - mineflayer - INFO - Error: No chest at (1343, 66, 1381), it is chest
+2023-05-30 23:49:15,703 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:49:15,703 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:49:15,703 - mineflayer - INFO - at depositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1552:9)
+2023-05-30 23:49:15,703 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1559:1)
+2023-05-30 23:49:15,704 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:49:15,704 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:49:15,704 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:49:15,704 - mineflayer - INFO - No chest at (1343, 66, 1381), it is chest
+2023-05-30 23:49:15,704 - mineflayer - INFO - at line 49:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code
+2023-05-30 23:49:20,081 - mineflayer - INFO - Stopping subprocess.
+2023-05-30 23:49:20,092 - mineflayer - INFO - Stopping subprocess.
+2023-05-30 23:49:21,109 - mineflayer - INFO - Starting subprocess with commands: ['node', 'C:\\Users\\fujji\\Programs\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2023-05-30 23:49:21,630 - mineflayer - INFO - Server started on port 3000
+2023-05-30 23:49:21,631 - mineflayer - INFO - Subprocess is ready.
+2023-05-30 23:49:21,647 - mineflayer - INFO - {
+2023-05-30 23:49:21,647 - mineflayer - INFO - port: 53649,
+2023-05-30 23:49:21,647 - mineflayer - INFO - reset: 'soft',
+2023-05-30 23:49:21,647 - mineflayer - INFO - inventory: {},
+2023-05-30 23:49:21,647 - mineflayer - INFO - equipment: [],
+2023-05-30 23:49:21,647 - mineflayer - INFO - spread: false,
+2023-05-30 23:49:21,647 - mineflayer - INFO - waitTicks: 20,
+2023-05-30 23:49:21,647 - mineflayer - INFO - position: null
+2023-05-30 23:49:21,647 - mineflayer - INFO - }
+2023-05-30 23:49:22,468 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:49:22,468 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:49:22,468 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:49:22,468 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:49:22,468 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:49:22,468 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:49:22,468 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:49:22,468 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:49:22,468 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:49:22,468 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:49:22,468 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:49:22,494 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:49:22,494 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:49:22,494 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:49:22,494 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:49:22,494 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:49:22,494 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:49:22,494 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:49:22,494 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:49:22,495 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:49:22,495 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:49:22,495 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:49:22,495 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:49:22,495 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:49:22,496 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:49:22,496 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:49:22,520 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:49:22,520 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:49:22,520 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:49:22,520 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:49:22,520 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:49:22,520 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:49:22,520 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:49:22,520 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:49:22,520 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:49:22,521 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:49:22,521 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:49:22,521 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:49:22,521 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:49:22,521 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:49:22,521 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:49:22,521 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:49:22,521 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:49:22,521 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:49:22,521 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:49:22,521 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:49:22,522 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:49:22,522 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:49:22,576 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:49:22,576 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:49:22,576 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:49:22,576 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:49:22,576 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:49:22,576 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:49:22,576 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:49:22,576 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:49:22,576 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:49:22,576 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:49:22,576 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:49:22,754 - mineflayer - INFO - PartialReadError: Read error for undefined : undefined
+2023-05-30 23:49:22,755 - mineflayer - INFO - at new ExtendableError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2023-05-30 23:49:22,755 - mineflayer - INFO - at new PartialReadError (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2023-05-30 23:49:22,755 - mineflayer - INFO - at Object.readVarInt [as varint] (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\datatypes\utils.js:69:45)
+2023-05-30 23:49:22,755 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:241:59)
+2023-05-30 23:49:22,755 - mineflayer - INFO - at Object.entityMetadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:244:9)
+2023-05-30 23:49:22,755 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:1778:73)
+2023-05-30 23:49:22,756 - mineflayer - INFO - at eval (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2398:70)
+2023-05-30 23:49:22,756 - mineflayer - INFO - at packet (eval at compile (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:258:12), <anonymous>:2428:9)
+2023-05-30 23:49:22,756 - mineflayer - INFO - at CompiledProtodef.read (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:70:12)
+2023-05-30 23:49:22,756 - mineflayer - INFO - at e.message (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:111:49)
+2023-05-30 23:50:54,095 - mineflayer - INFO - Error: No chest at (1345.348313138694, 63.875, 1381.5), it is chest
+2023-05-30 23:50:54,095 - mineflayer - INFO - at moveToChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1366:15)
+2023-05-30 23:50:54,095 - mineflayer - INFO - at depositItemIntoChest (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1315:11)
+2023-05-30 23:50:54,095 - mineflayer - INFO - at placeAndDepositUselessItems (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1521:9)
+2023-05-30 23:50:54,095 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-05-30 23:50:54,095 - mineflayer - INFO - at async eval (eval at evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:19), <anonymous>:1532:1)
+2023-05-30 23:50:54,095 - mineflayer - INFO - at async evaluateCode (C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:258:13)
+2023-05-30 23:50:54,095 - mineflayer - INFO - at async C:\Users\fujji\Programs\Voyager\voyager\env\mineflayer\index.js:241:15
+2023-05-30 23:50:54,095 - mineflayer - INFO - In your program code: throw new Error(
+2023-05-30 23:50:54,095 - mineflayer - INFO - No chest at (1345.348313138694, 63.875, 1381.5), it is chest
+2023-05-30 23:50:54,095 - mineflayer - INFO - at line 18:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code

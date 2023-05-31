@@ -1,0 +1,608 @@
+[
+    [
+        "onChat",
+        {
+            "onChat": "Placing chest on stone at (1345, 62, 1381)",
+            "voxels": [
+                "water",
+                "grass_block",
+                "stone",
+                "dirt",
+                "coal_ore",
+                "copper_ore",
+                "chest",
+                "diorite"
+            ],
+            "status": {
+                "health": 20,
+                "food": 20,
+                "saturation": 5,
+                "oxygen": 20,
+                "position": {
+                    "x": 1344.348313138694,
+                    "y": 64.875,
+                    "z": 1381.5
+                },
+                "velocity": {
+                    "x": 0,
+                    "y": -0.0784000015258789,
+                    "z": 0
+                },
+                "yaw": 1.5707963267948966,
+                "pitch": -0.3000000035018413,
+                "onGround": true,
+                "equipment": [
+                    null,
+                    "iron_chestplate",
+                    null,
+                    null,
+                    "chest",
+                    "shield"
+                ],
+                "name": "bot",
+                "timeSinceOnGround": 0,
+                "isInWater": false,
+                "isInLava": false,
+                "isCollidedHorizontally": false,
+                "isCollidedVertically": true,
+                "biome": "windswept_gravelly_hills",
+                "entities": {
+                    "sheep": 14.86062048884097
+                },
+                "timeOfDay": "sunset",
+                "inventoryUsed": 34,
+                "elapsedTime": 20
+            },
+            "inventory": {
+                "snowball": 27,
+                "raw_iron": 2,
+                "wheat_seeds": 1,
+                "spruce_sapling": 2,
+                "coal": 16,
+                "andesite": 9,
+                "diorite": 1,
+                "raw_gold": 1,
+                "azalea": 1,
+                "stick": 2,
+                "stone_hoe": 1,
+                "copper_ingot": 12,
+                "stone_shovel": 1,
+                "stone_sword": 1,
+                "stone_axe": 1,
+                "iron_sword": 1,
+                "crafting_table": 1,
+                "moss_block": 4,
+                "lily_pad": 1,
+                "furnace": 2,
+                "cobblestone": 54,
+                "emerald": 5,
+                "wooden_pickaxe": 1,
+                "raw_copper": 7,
+                "chest": 1,
+                "iron_pickaxe": 1,
+                "dirt": 1,
+                "spruce_planks": 3,
+                "stone_pickaxe": 5
+            },
+            "nearbyChests": {
+                "(1344, 64, 1381)": "Unknown",
+                "(1343, 65, 1380)": "Unknown",
+                "(1343, 66, 1381)": "Unknown",
+                "(1345, 63, 1381)": "Unknown"
+            },
+            "blockRecords": [
+                "water",
+                "grass_block",
+                "stone",
+                "coal_ore",
+                "copper_ore",
+                "chest"
+            ]
+        }
+    ],
+    [
+        "onChat",
+        {
+            "onChat": "Placed chest",
+            "voxels": [
+                "water",
+                "grass_block",
+                "dirt",
+                "stone",
+                "coal_ore",
+                "copper_ore",
+                "chest",
+                "diorite"
+            ],
+            "status": {
+                "health": 20,
+                "food": 20,
+                "saturation": 5,
+                "oxygen": 20,
+                "position": {
+                    "x": 1345.5,
+                    "y": 64.16610926093821,
+                    "z": 1381.5
+                },
+                "velocity": {
+                    "x": 0,
+                    "y": 0.08307781780646721,
+                    "z": 0
+                },
+                "yaw": -3.1415926535895,
+                "pitch": -1.569727034327637,
+                "onGround": false,
+                "equipment": [
+                    null,
+                    "iron_chestplate",
+                    null,
+                    null,
+                    "chest",
+                    "shield"
+                ],
+                "name": "bot",
+                "timeSinceOnGround": 0,
+                "isInWater": false,
+                "isInLava": false,
+                "isCollidedHorizontally": false,
+                "isCollidedVertically": false,
+                "biome": "windswept_gravelly_hills",
+                "entities": {
+                    "sheep": 15.87937081343929
+                },
+                "timeOfDay": "sunset",
+                "inventoryUsed": 34,
+                "elapsedTime": 103
+            },
+            "inventory": {
+                "snowball": 27,
+                "raw_iron": 2,
+                "wheat_seeds": 1,
+                "spruce_sapling": 2,
+                "coal": 16,
+                "andesite": 9,
+                "diorite": 1,
+                "raw_gold": 1,
+                "azalea": 1,
+                "stick": 2,
+                "stone_hoe": 1,
+                "copper_ingot": 12,
+                "stone_shovel": 1,
+                "stone_sword": 1,
+                "stone_axe": 1,
+                "iron_sword": 1,
+                "crafting_table": 1,
+                "moss_block": 4,
+                "lily_pad": 1,
+                "furnace": 2,
+                "cobblestone": 57,
+                "emerald": 5,
+                "wooden_pickaxe": 1,
+                "raw_copper": 7,
+                "chest": 1,
+                "iron_pickaxe": 1,
+                "dirt": 1,
+                "spruce_planks": 3,
+                "stone_pickaxe": 5
+            },
+            "nearbyChests": {
+                "(1344, 64, 1381)": "Unknown",
+                "(1343, 65, 1380)": "Unknown",
+                "(1343, 66, 1381)": "Unknown",
+                "(1345, 63, 1381)": "Unknown"
+            },
+            "blockRecords": [
+                "water",
+                "grass_block",
+                "stone",
+                "coal_ore",
+                "copper_ore",
+                "chest"
+            ]
+        }
+    ],
+    [
+        "onSave",
+        {
+            "voxels": [
+                "water",
+                "grass_block",
+                "dirt",
+                "stone",
+                "coal_ore",
+                "copper_ore",
+                "chest",
+                "diorite"
+            ],
+            "status": {
+                "health": 20,
+                "food": 20,
+                "saturation": 5,
+                "oxygen": 20,
+                "position": {
+                    "x": 1345.5,
+                    "y": 64.16610926093821,
+                    "z": 1381.5
+                },
+                "velocity": {
+                    "x": 0,
+                    "y": 0.08307781780646721,
+                    "z": 0
+                },
+                "yaw": -3.1415926535895,
+                "pitch": -1.569727034327637,
+                "onGround": false,
+                "equipment": [
+                    null,
+                    "iron_chestplate",
+                    null,
+                    null,
+                    "chest",
+                    "shield"
+                ],
+                "name": "bot",
+                "timeSinceOnGround": 0,
+                "isInWater": false,
+                "isInLava": false,
+                "isCollidedHorizontally": false,
+                "isCollidedVertically": false,
+                "biome": "windswept_gravelly_hills",
+                "entities": {
+                    "sheep": 15.87937081343929
+                },
+                "timeOfDay": "sunset",
+                "inventoryUsed": 34,
+                "elapsedTime": 103
+            },
+            "inventory": {
+                "snowball": 27,
+                "raw_iron": 2,
+                "wheat_seeds": 1,
+                "spruce_sapling": 2,
+                "coal": 16,
+                "andesite": 9,
+                "diorite": 1,
+                "raw_gold": 1,
+                "azalea": 1,
+                "stick": 2,
+                "stone_hoe": 1,
+                "copper_ingot": 12,
+                "stone_shovel": 1,
+                "stone_sword": 1,
+                "stone_axe": 1,
+                "iron_sword": 1,
+                "crafting_table": 1,
+                "moss_block": 4,
+                "lily_pad": 1,
+                "furnace": 2,
+                "cobblestone": 57,
+                "emerald": 5,
+                "wooden_pickaxe": 1,
+                "raw_copper": 7,
+                "chest": 1,
+                "iron_pickaxe": 1,
+                "dirt": 1,
+                "spruce_planks": 3,
+                "stone_pickaxe": 5
+            },
+            "onSave": "chest_placed",
+            "nearbyChests": {
+                "(1344, 64, 1381)": "Unknown",
+                "(1343, 65, 1380)": "Unknown",
+                "(1343, 66, 1381)": "Unknown",
+                "(1345, 63, 1381)": "Unknown"
+            },
+            "blockRecords": [
+                "water",
+                "grass_block",
+                "stone",
+                "coal_ore",
+                "copper_ore",
+                "chest"
+            ]
+        }
+    ],
+    [
+        "onChat",
+        {
+            "onChat": "Chest placed.",
+            "voxels": [
+                "water",
+                "grass_block",
+                "dirt",
+                "stone",
+                "coal_ore",
+                "copper_ore",
+                "chest",
+                "diorite"
+            ],
+            "status": {
+                "health": 20,
+                "food": 20,
+                "saturation": 5,
+                "oxygen": 20,
+                "position": {
+                    "x": 1345.5,
+                    "y": 64.16610926093821,
+                    "z": 1381.5
+                },
+                "velocity": {
+                    "x": 0,
+                    "y": 0.08307781780646721,
+                    "z": 0
+                },
+                "yaw": -3.1415926535895,
+                "pitch": -1.569727034327637,
+                "onGround": false,
+                "equipment": [
+                    null,
+                    "iron_chestplate",
+                    null,
+                    null,
+                    "chest",
+                    "shield"
+                ],
+                "name": "bot",
+                "timeSinceOnGround": 0,
+                "isInWater": false,
+                "isInLava": false,
+                "isCollidedHorizontally": false,
+                "isCollidedVertically": false,
+                "biome": "windswept_gravelly_hills",
+                "entities": {
+                    "sheep": 15.87937081343929
+                },
+                "timeOfDay": "sunset",
+                "inventoryUsed": 34,
+                "elapsedTime": 103
+            },
+            "inventory": {
+                "snowball": 27,
+                "raw_iron": 2,
+                "wheat_seeds": 1,
+                "spruce_sapling": 2,
+                "coal": 16,
+                "andesite": 9,
+                "diorite": 1,
+                "raw_gold": 1,
+                "azalea": 1,
+                "stick": 2,
+                "stone_hoe": 1,
+                "copper_ingot": 12,
+                "stone_shovel": 1,
+                "stone_sword": 1,
+                "stone_axe": 1,
+                "iron_sword": 1,
+                "crafting_table": 1,
+                "moss_block": 4,
+                "lily_pad": 1,
+                "furnace": 2,
+                "cobblestone": 57,
+                "emerald": 5,
+                "wooden_pickaxe": 1,
+                "raw_copper": 7,
+                "chest": 1,
+                "iron_pickaxe": 1,
+                "dirt": 1,
+                "spruce_planks": 3,
+                "stone_pickaxe": 5
+            },
+            "nearbyChests": {
+                "(1344, 64, 1381)": "Unknown",
+                "(1343, 65, 1380)": "Unknown",
+                "(1343, 66, 1381)": "Unknown",
+                "(1345, 63, 1381)": "Unknown"
+            },
+            "blockRecords": [
+                "water",
+                "grass_block",
+                "stone",
+                "coal_ore",
+                "copper_ore",
+                "chest"
+            ]
+        }
+    ],
+    [
+        "onError",
+        {
+            "onError": "In your program code: throw new Error(\nNo chest at (1345.348313138694, 63.875, 1381.5), it is chest\nat line 18:await depositItemIntoChest(bot, chestPosition, uselessItems); in your code",
+            "voxels": [
+                "water",
+                "grass_block",
+                "dirt",
+                "stone",
+                "coal_ore",
+                "copper_ore",
+                "chest",
+                "diorite"
+            ],
+            "status": {
+                "health": 20,
+                "food": 20,
+                "saturation": 5,
+                "oxygen": 20,
+                "position": {
+                    "x": 1345.5,
+                    "y": 64.16610926093821,
+                    "z": 1381.5
+                },
+                "velocity": {
+                    "x": 0,
+                    "y": 0.08307781780646721,
+                    "z": 0
+                },
+                "yaw": -3.1415926535895,
+                "pitch": -1.569727034327637,
+                "onGround": false,
+                "equipment": [
+                    null,
+                    "iron_chestplate",
+                    null,
+                    null,
+                    "chest",
+                    "shield"
+                ],
+                "name": "bot",
+                "timeSinceOnGround": 0,
+                "isInWater": false,
+                "isInLava": false,
+                "isCollidedHorizontally": false,
+                "isCollidedVertically": false,
+                "biome": "windswept_gravelly_hills",
+                "entities": {
+                    "sheep": 15.87937081343929
+                },
+                "timeOfDay": "sunset",
+                "inventoryUsed": 34,
+                "elapsedTime": 103
+            },
+            "inventory": {
+                "snowball": 27,
+                "raw_iron": 2,
+                "wheat_seeds": 1,
+                "spruce_sapling": 2,
+                "coal": 16,
+                "andesite": 9,
+                "diorite": 1,
+                "raw_gold": 1,
+                "azalea": 1,
+                "stick": 2,
+                "stone_hoe": 1,
+                "copper_ingot": 12,
+                "stone_shovel": 1,
+                "stone_sword": 1,
+                "stone_axe": 1,
+                "iron_sword": 1,
+                "crafting_table": 1,
+                "moss_block": 4,
+                "lily_pad": 1,
+                "furnace": 2,
+                "cobblestone": 57,
+                "emerald": 5,
+                "wooden_pickaxe": 1,
+                "raw_copper": 7,
+                "chest": 1,
+                "iron_pickaxe": 1,
+                "dirt": 1,
+                "spruce_planks": 3,
+                "stone_pickaxe": 5
+            },
+            "nearbyChests": {
+                "(1344, 64, 1381)": "Unknown",
+                "(1343, 65, 1380)": "Unknown",
+                "(1343, 66, 1381)": "Unknown",
+                "(1345, 63, 1381)": "Unknown"
+            },
+            "blockRecords": [
+                "water",
+                "grass_block",
+                "stone",
+                "coal_ore",
+                "copper_ore",
+                "chest"
+            ]
+        }
+    ],
+    [
+        "observe",
+        {
+            "voxels": [
+                "water",
+                "dirt",
+                "stone",
+                "grass_block",
+                "coal_ore",
+                "chest",
+                "copper_ore",
+                "diorite",
+                "iron_ore"
+            ],
+            "status": {
+                "health": 20,
+                "food": 20,
+                "saturation": 5,
+                "oxygen": 20,
+                "position": {
+                    "x": 1345.5,
+                    "y": 63.875,
+                    "z": 1381.5
+                },
+                "velocity": {
+                    "x": 0,
+                    "y": -0.0784000015258789,
+                    "z": 0
+                },
+                "yaw": -3.1415926535895,
+                "pitch": -1.569727034327637,
+                "onGround": true,
+                "equipment": [
+                    null,
+                    "iron_chestplate",
+                    null,
+                    null,
+                    "chest",
+                    "shield"
+                ],
+                "name": "bot",
+                "timeSinceOnGround": 0,
+                "isInWater": false,
+                "isInLava": false,
+                "isCollidedHorizontally": false,
+                "isCollidedVertically": true,
+                "biome": "windswept_gravelly_hills",
+                "entities": {
+                    "sheep": 16.04314236180138
+                },
+                "timeOfDay": "sunset",
+                "inventoryUsed": 34,
+                "elapsedTime": 146
+            },
+            "inventory": {
+                "snowball": 27,
+                "raw_iron": 2,
+                "wheat_seeds": 1,
+                "spruce_sapling": 2,
+                "coal": 16,
+                "andesite": 9,
+                "diorite": 1,
+                "raw_gold": 1,
+                "azalea": 1,
+                "stick": 2,
+                "stone_hoe": 1,
+                "copper_ingot": 12,
+                "stone_shovel": 1,
+                "stone_sword": 1,
+                "stone_axe": 1,
+                "iron_sword": 1,
+                "crafting_table": 1,
+                "moss_block": 4,
+                "lily_pad": 1,
+                "furnace": 2,
+                "cobblestone": 57,
+                "emerald": 5,
+                "wooden_pickaxe": 1,
+                "raw_copper": 7,
+                "chest": 1,
+                "iron_pickaxe": 1,
+                "dirt": 1,
+                "spruce_planks": 3,
+                "stone_pickaxe": 5
+            },
+            "nearbyChests": {
+                "(1344, 64, 1381)": "Unknown",
+                "(1343, 65, 1380)": "Unknown",
+                "(1343, 66, 1381)": "Unknown",
+                "(1345, 63, 1381)": "Unknown"
+            },
+            "blockRecords": [
+                "water",
+                "grass_block",
+                "stone",
+                "coal_ore",
+                "copper_ore",
+                "chest"
+            ]
+        }
+    ]
+]
